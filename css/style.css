@@ -1,0 +1,181 @@
+body {
+	height: 1000px;
+}
+header {
+    padding-left: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+   
+   
+    }
+
+header:hover
+{
+    border: 3px solid green;
+}
+    .logo {
+        font-size: 20px;
+        display: inline-block;
+        color: red;
+        margin-right: 30px;
+        vertical-align: middle;
+        padding: 28px 20px 15px 18px;
+    }
+
+    nav{
+        display: inline-block;
+        vertical-align: middle;
+    }
+    li {
+        display: inline-block;
+        margin-right: 20px;
+        font-size: 9px;
+        
+    }
+
+
+    .h3{
+        
+        width: 1025px;
+        height: 20px;
+        padding-left:127px;
+        padding-top: 100px;
+        
+    } 
+
+    
+
+    .wrapper{
+        height: 400px;
+        position: relative;
+        display: inline-block;
+        margin: 35px;
+        padding-left: 35px;
+        padding-top: 40px;
+
+
+    }
+    .wrapper:hover
+    {
+        border: 1.5px solid blue;
+    
+    }
+
+.mydiv{
+ font-size:15px;
+ color:white;
+ position: absolute;
+ left: 110px;
+ top: 65px;
+ transform:translate(-50%, -50%)
+
+}
+
+.mydiv:hover{
+    
+        border: 1.5px solid blue;
+}
+
+
+
+.mydiv2{
+    font-size:15px;
+ color:white;
+ position: absolute;
+ left: 500px;
+ top: 65px;
+ transform:translate(-50%, -50%)
+}
+.mydiv2:hover{
+    
+    border: 1.5px solid blue;
+}
+
+.mydiv3{
+    font-size:15px;
+    color:white;
+    position: absolute;
+    left: 900px;
+    top: 65px;
+    transform:translate(-50%, -50%) 
+}
+.mydiv3:hover{
+    
+    border: 1.5px solid blue;
+}
+
+.nav2{
+    display: inline-block;
+    vertical-align: middle;
+}
+.li2{
+    display: inline-block;
+    margin-left:50px;
+    margin-top: 55px;
+    font-size: 9px;
+    color: gray;
+    
+}
+.li2:hover{
+    
+    border: 1.5px solid blue;
+}
+
+
+
+.img1{
+    display: inline-block;
+    margin-left:370px;
+    margin-top: 55px;
+    font-size: 9px;
+    
+}
+.img1:hover{
+    border: 1.5px solid blue;
+
+}
+.img2:hover{
+    border: 1.5px solid blue;
+
+}
+
+.time_text{
+    display: inline-block;
+   color:gray;
+}
+
+.image{
+    display: inline-block;
+    width: 760px;
+    height: 930px;
+    margin-left: 200px;
+    
+}
+
+.image:hover{
+    border: 3px solid green;
+
+}
+.rightside{
+    display: inline-block;
+    width: 360px;
+    height: 700px;
+    margin-left: 100px;
+
+    
+    
+
+}
+.rightside:hover{
+    border: 3px solid blue;
+
+}
+
+
+
+
+
+  
