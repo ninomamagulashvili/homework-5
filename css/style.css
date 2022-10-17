@@ -149,7 +149,7 @@ header:hover
 
 .image{
     display: inline-block;
-    width: 450px;
+    width: 350px;
     height: 930px;
     margin-left:50px;
 
@@ -164,21 +164,22 @@ header:hover
     display: inline-block;
     width: 360px;
     height: 700px;
-    margin-left: 400px;
-    padding-top: 190px;
-
-    
+   padding-left:450px;
 
 }
-.rightside:hover{
-    border: 3px solid blue;
 
-}
 
 .right_img1{
-padding-bottom: 228px;
+padding-bottom: 110px;
 
 }
+
+.right_img2{
+    padding-bottom: 120px;
+    
+    }
+
+
 
 
 
